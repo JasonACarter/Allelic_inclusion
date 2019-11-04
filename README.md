@@ -2,15 +2,15 @@
 
 Bayesian inference of T cell allelic inclusion rates from emulsion-barcoding single-cell sequencing data. 
 
-* [Model](https://github.com/JasonACarter/Allelic_inclusion/Model)
-  * [Derivations](https://github.com/JasonACarter/Allelic_inclusion/Model/Derivations): iPython notebooks detailing step-by-step derivation of likelihood function and full Bayesian framework
-  * [Inclusion.py](https://github.com/JasonACarter/Allelic_inclusion/Model/Inclusion.py): Python implementation of our Bayesian inference model
-* [Data](https://github.com/JasonACarter/Allelic_inclusion/Data)
+* [Model](https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model)
+  * [Derivations](https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model/Derivations): iPython notebooks detailing step-by-step derivation of likelihood function and full Bayesian framework
+  * [Inclusion.py](https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model/Inclusion.py): Python implementation of our Bayesian inference model
+* [Data](https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model/Derivations)
   * Distribution of α and β TCR chains per droplet for each individual (Fig. 1)
   * TCR seqeunces for plate-based sequencing approach (Fig. 2)
   * Dataframes containing all αβ, ααβ, and αββ TCR sequence sets used in our study (Figs. 3 & 4)
   * Version of [VDJdb](https://vdjdb.cdr3.net) used in Fig. 4
-* [Figures](https://github.com/JasonACarter/Allelic_inclusion/Figures)
+* [Figures](https://github.com/JasonACarter/Allelic_inclusion/tree/master/Figures)
   * iPython notebooks containing code necessary to generate each main manuscript figure
     
 ## Requirements
@@ -23,7 +23,7 @@ Bayesian inference of T cell allelic inclusion rates from emulsion-barcoding sin
 
 The allelic inclusion inference model can be downloaded using:
 
-```git clone https://github.com/JasonACarter/Allelic_inclusion/Model/Inclusion.py```
+```wget https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model/Inclusion.py```
 
 ## Use 
 
