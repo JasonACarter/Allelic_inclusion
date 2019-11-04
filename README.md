@@ -9,6 +9,7 @@ Bayesian inference of T cell allelic inclusion rates from emulsion-barcoding sin
   * Distribution of α and β TCR chains per droplet for each individual (Fig. 1)
   * TCR seqeunces for plate-based sequencing approach (Fig. 2)
   * Dataframes containing all αβ, ααβ, and αββ TCR sequence sets used in our study (Figs. 3 & 4)
+  * Version of [VDJdb](https://vdjdb.cdr3.net) used in Fig. 4
 * [Figures](https://github.com/JasonACarter/Allelic_inclusion/Figures)
   * iPython notebooks containing code necessary to generate each main manuscript figure
     
