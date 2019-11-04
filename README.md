@@ -6,9 +6,9 @@ Bayesian inference of T cell allelic inclusion rates from emulsion-barcoding sin
   * [Derivations](https://github.com/JasonACarter/Allelic_inclusion/Model/Derivations): iPython notebooks detailing step-by-step derivation of likelihood function and full Bayesian framework
   * [Inclusion.py](https://github.com/JasonACarter/Allelic_inclusion/Model/Inclusion.py): Python implementation of our Bayesian inference model
 * [Data](https://github.com/JasonACarter/Allelic_inclusion/Data)
-  * Dataframes containing all αβ, ααβ, and αββ TCR sequence sets used in our study
-  * Distribution of α and β TCR chains per droplet are provided for each individual
-  * TCR seqeunces for plate-based sequencing approach (Figure 2)
+  * Distribution of α and β TCR chains per droplet for each individual (Fig. 1)
+  * TCR seqeunces for plate-based sequencing approach (Fig. 2)
+  * Dataframes containing all αβ, ααβ, and αββ TCR sequence sets used in our study (Figs. 3 & 4)
 * [Figures](https://github.com/JasonACarter/Allelic_inclusion/Figures)
   * iPython notebooks containing code necessary to generate each main manuscript figure
     
