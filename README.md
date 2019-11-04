@@ -23,7 +23,7 @@ Bayesian inference of T cell allelic inclusion rates from emulsion-barcoding sin
 
 The allelic inclusion inference model can be downloaded using:
 
-```wget https://github.com/JasonACarter/Allelic_inclusion/tree/master/Model/Inclusion.py```
+```wget https://raw.githubusercontent.com/JasonACarter/Allelic_inclusion/master/Model/Inclusion.py```
 
 ## Use 
 
